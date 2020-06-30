@@ -1,5 +1,5 @@
 <!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/logo-shadow.png" alt="Logo" width="150" height="150" />
+  <img src="https://github.com/J-Eugenio/react-rich-text-editor/blob/master/git_assets/React-logo.png?raw=true" alt="Logo" width="150" height="150" />
 </p>
 <h1 align="center">Rich Text Edito</h1>
 <p align="center">
