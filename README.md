@@ -1,7 +1,7 @@
 <!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><p align="center">
   <img src="https://github.com/J-Eugenio/react-rich-text-editor/blob/master/git_assets/React-logo.png?raw=true" alt="Logo" width="150" height="150" />
 </p>
-<h1 align="center">Rich Text Edito</h1>
+<h1 align="center">Rich Text Editor</h1>
 <p align="center">
 <a href="https://www.npmjs.com/package/@appnest/readme"><img alt="NPM Version" src="https://img.shields.io/npm/v/@appnest/readme.svg" height="20"/></a>
 <a href="https://github.com/ianstormtaylor/slate"><img alt="Dependencies" src="https://img.shields.io/david/optional/J-Eugenio/react-rich-text-editor" height="20"/></a>
