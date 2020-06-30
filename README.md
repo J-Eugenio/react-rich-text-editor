@@ -10,5 +10,5 @@
 <a href="https://github.com/J-Eugenio/FabSoft-SCO/graphs/commit-activity"><img alt="Maintained" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" height="20"/></a>
 </p>
 <p align="center"> Editor de texto desenvolvido em React-js com o pacote Slate um Rich text editor.</p>
-<p align="center"><img alt="mapa" src="https://raw.githubusercontent.com/J-Eugenio/Mapa/master/mapa.gif"/></p>
+<p align="center"><img alt="mapa" src="https://github.com/J-Eugenio/react-rich-text-editor/blob/master/git_assets/code.gif?raw=true"/></p>
 
