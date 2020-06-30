@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://www.npmjs.com/package/@appnest/readme"><img alt="NPM Version" src="https://img.shields.io/npm/v/@appnest/readme.svg" height="20"/></a>
 <a href="https://github.com/ianstormtaylor/slate"><img alt="Dependencies" src="https://img.shields.io/david/optional/J-Eugenio/react-rich-text-editor" height="20"/></a>
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/J-Eugenio/react-rich-text-editor">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/J-Eugenio/react-rich-text-editor">
 <a href="https://github.com/badges/shields"><img alt="Custom badge" src="https://img.shields.io/badge/custom-badge-f39f37.svg" height="20"/></a>
 <a href="https://github.com/J-Eugenio/FabSoft-SCO/graphs/commit-activity"><img alt="Maintained" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" height="20"/></a>
 </p>
